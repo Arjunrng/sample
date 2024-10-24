@@ -1,0 +1,12 @@
+Git clone https://github.com/Arjunrng/sample.git
+
+Git and Github 
+
+alternatives : AWs,bitbucket,gitlab
+
+git add . >>>>> add the file to the stagging alternatives (file is being tracked by git)
+
+git commit - "message" >>>> to commit the changes in the tracked file
+
+git push origin main >>>> pushing the file to the main branch in Github repository
+
